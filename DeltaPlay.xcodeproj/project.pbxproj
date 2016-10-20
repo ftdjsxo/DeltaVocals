@@ -7,6 +7,56 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0D4968B91DB9587C00F9D9B5 /* aaaaaaaaaaaaaaaaaaaah (sbadiglio).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D4968871DB9587C00F9D9B5 /* aaaaaaaaaaaaaaaaaaaah (sbadiglio).mp3 */; };
+		0D4968BA1DB9587C00F9D9B5 /* ah ah che cazzo me ne frega a me!.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D4968881DB9587C00F9D9B5 /* ah ah che cazzo me ne frega a me!.mp3 */; };
+		0D4968BB1DB9587C00F9D9B5 /* Ah ah, ricchioni maledetti.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D4968891DB9587C00F9D9B5 /* Ah ah, ricchioni maledetti.mp3 */; };
+		0D4968BC1DB9587C00F9D9B5 /* Ah ah... non mi fate incazzere.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D49688A1DB9587C00F9D9B5 /* Ah ah... non mi fate incazzere.mp3 */; };
+		0D4968BD1DB9587C00F9D9B5 /* Ah com'è umano lei... merdaccia!!!.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D49688B1DB9587C00F9D9B5 /* Ah com'è umano lei... merdaccia!!!.mp3 */; };
+		0D4968BE1DB9587C00F9D9B5 /* Andate a dormire brutti bastardi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D49688C1DB9587C00F9D9B5 /* Andate a dormire brutti bastardi.mp3 */; };
+		0D4968BF1DB9587C00F9D9B5 /* Bestia che roba!!!.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D49688D1DB9587C00F9D9B5 /* Bestia che roba!!!.mp3 */; };
+		0D4968C01DB9587C00F9D9B5 /* Buonasera un cazzo!.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D49688E1DB9587C00F9D9B5 /* Buonasera un cazzo!.mp3 */; };
+		0D4968C11DB9587C00F9D9B5 /* Cagnolino.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D49688F1DB9587C00F9D9B5 /* Cagnolino.mp3 */; };
+		0D4968C21DB9587C00F9D9B5 /* Champagne (ubriaco).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D4968901DB9587C00F9D9B5 /* Champagne (ubriaco).mp3 */; };
+		0D4968C31DB9587C00F9D9B5 /* Che siete handicappati (Attila).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D4968911DB9587C00F9D9B5 /* Che siete handicappati (Attila).mp3 */; };
+		0D4968C41DB9587C00F9D9B5 /* Chi cazzo lo conosce. Terrone maledetto (Banfi).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D4968921DB9587C00F9D9B5 /* Chi cazzo lo conosce. Terrone maledetto (Banfi).mp3 */; };
+		0D4968C51DB9587C00F9D9B5 /* Chobin boing boing piccolo carino e bello.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D4968931DB9587C00F9D9B5 /* Chobin boing boing piccolo carino e bello.mp3 */; };
+		0D4968C61DB9587C00F9D9B5 /* Collaudo Huawei.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D4968941DB9587C00F9D9B5 /* Collaudo Huawei.mp3 */; };
+		0D4968C71DB9587C00F9D9B5 /* Delta non bestemmia.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D4968951DB9587C00F9D9B5 /* Delta non bestemmia.mp3 */; };
+		0D4968C81DB9587C00F9D9B5 /* Dio porco!.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D4968961DB9587C00F9D9B5 /* Dio porco!.mp3 */; };
+		0D4968C91DB9587C00F9D9B5 /* Dove passo io non cresce più l'erba caro (Attila).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D4968971DB9587C00F9D9B5 /* Dove passo io non cresce più l'erba caro (Attila).mp3 */; };
+		0D4968CA1DB9587C00F9D9B5 /* Eh la madooonna!!!.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D4968981DB9587C00F9D9B5 /* Eh la madooonna!!!.mp3 */; };
+		0D4968CB1DB9587C00F9D9B5 /* Esatto!.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D4968991DB9587C00F9D9B5 /* Esatto!.mp3 */; };
+		0D4968CC1DB9587C00F9D9B5 /* Interferenza Huawei.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D49689A1DB9587C00F9D9B5 /* Interferenza Huawei.mp3 */; };
+		0D4968CD1DB9587C00F9D9B5 /* Lupo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D49689B1DB9587C00F9D9B5 /* Lupo.mp3 */; };
+		0D4968CE1DB9587C00F9D9B5 /* ma a me che cazzo me ne frega a me.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D49689C1DB9587C00F9D9B5 /* ma a me che cazzo me ne frega a me.mp3 */; };
+		0D4968CF1DB9587C00F9D9B5 /* Ma andate a cagare va'.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D49689D1DB9587C00F9D9B5 /* Ma andate a cagare va'.mp3 */; };
+		0D4968D01DB9587C00F9D9B5 /* ma che cazzo dici! io son mica scemo!.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D49689E1DB9587C00F9D9B5 /* ma che cazzo dici! io son mica scemo!.mp3 */; };
+		0D4968D11DB9587C00F9D9B5 /* Ma che è sta cafonata.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D49689F1DB9587C00F9D9B5 /* Ma che è sta cafonata.mp3 */; };
+		0D4968D21DB9587C00F9D9B5 /* Ma che è stammerda!.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D4968A01DB9587C00F9D9B5 /* Ma che è stammerda!.mp3 */; };
+		0D4968D31DB9587C00F9D9B5 /* Ma vaffanculo va'.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D4968A11DB9587C00F9D9B5 /* Ma vaffanculo va'.mp3 */; };
+		0D4968D41DB9587C00F9D9B5 /* Ma vai a cagare va' (ubriaco).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D4968A21DB9587C00F9D9B5 /* Ma vai a cagare va' (ubriaco).mp3 */; };
+		0D4968D51DB9587C00F9D9B5 /* Ma vai a cagare va' 2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D4968A31DB9587C00F9D9B5 /* Ma vai a cagare va' 2.mp3 */; };
+		0D4968D61DB9587C00F9D9B5 /* Ma vai a cagare va' 3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D4968A41DB9587C00F9D9B5 /* Ma vai a cagare va' 3.mp3 */; };
+		0D4968D71DB9587C00F9D9B5 /* Ma vai a cagare va' pirla.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D4968A51DB9587C00F9D9B5 /* Ma vai a cagare va' pirla.mp3 */; };
+		0D4968D81DB9587C00F9D9B5 /* Ma vai a cagare va'... uh uh ah ah!!!.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D4968A61DB9587C00F9D9B5 /* Ma vai a cagare va'... uh uh ah ah!!!.mp3 */; };
+		0D4968D91DB9587C00F9D9B5 /* Ma vai a cagare va'.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D4968A71DB9587C00F9D9B5 /* Ma vai a cagare va'.mp3 */; };
+		0D4968DA1DB9587C00F9D9B5 /* Ma vattela à pijà n' tel culo va'!.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D4968A81DB9587C00F9D9B5 /* Ma vattela à pijà n' tel culo va'!.mp3 */; };
+		0D4968DB1DB9587C00F9D9B5 /* Madonna dell' incoroneta.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D4968A91DB9587C00F9D9B5 /* Madonna dell' incoroneta.mp3 */; };
+		0D4968DC1DB9587C00F9D9B5 /* Mi hai preso per rincoglioneto!.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D4968AA1DB9587C00F9D9B5 /* Mi hai preso per rincoglioneto!.mp3 */; };
+		0D4968DD1DB9587C00F9D9B5 /* Oooooo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D4968AB1DB9587C00F9D9B5 /* Oooooo.mp3 */; };
+		0D4968DE1DB9587C00F9D9B5 /* Orango uh uh uh.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D4968AC1DB9587C00F9D9B5 /* Orango uh uh uh.mp3 */; };
+		0D4968DF1DB9587C00F9D9B5 /* Pernacchia.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D4968AD1DB9587C00F9D9B5 /* Pernacchia.mp3 */; };
+		0D4968E01DB9587C00F9D9B5 /* Porco Dio.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D4968AE1DB9587C00F9D9B5 /* Porco Dio.mp3 */; };
+		0D4968E11DB9587C00F9D9B5 /* Risata scimmia.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D4968AF1DB9587C00F9D9B5 /* Risata scimmia.mp3 */; };
+		0D4968E21DB9587C00F9D9B5 /* Sh sh sh sh ai ue ai u (ubriaco).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D4968B01DB9587C00F9D9B5 /* Sh sh sh sh ai ue ai u (ubriaco).mp3 */; };
+		0D4968E31DB9587C00F9D9B5 /* Sì sente molto bene il microfono del tuo Huawei.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D4968B11DB9587C00F9D9B5 /* Sì sente molto bene il microfono del tuo Huawei.mp3 */; };
+		0D4968E41DB9587C00F9D9B5 /* Siete proprio dei bastardi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D4968B21DB9587C00F9D9B5 /* Siete proprio dei bastardi.mp3 */; };
+		0D4968E51DB9587C00F9D9B5 /* Stocazzo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D4968B31DB9587C00F9D9B5 /* Stocazzo.mp3 */; };
+		0D4968E61DB9587C00F9D9B5 /* Stooonzooooooo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D4968B41DB9587C00F9D9B5 /* Stooonzooooooo.mp3 */; };
+		0D4968E71DB9587C00F9D9B5 /* Stronzo!.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D4968B51DB9587C00F9D9B5 /* Stronzo!.mp3 */; };
+		0D4968E81DB9587C00F9D9B5 /* Tarzan.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D4968B61DB9587C00F9D9B5 /* Tarzan.mp3 */; };
+		0D4968E91DB9587C00F9D9B5 /* Te faccio vedé i sorci verdi aoh!.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D4968B71DB9587C00F9D9B5 /* Te faccio vedé i sorci verdi aoh!.mp3 */; };
+		0D4968EA1DB9587C00F9D9B5 /* Viuleeenza!!!.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D4968B81DB9587C00F9D9B5 /* Viuleeenza!!!.mp3 */; };
 		0D51E7301DB917230077B37F /* FoundationExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D51E72F1DB917230077B37F /* FoundationExtension.swift */; };
 		0D51E7321DB922D50077B37F /* vaffanculo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D51E7311DB922D50077B37F /* vaffanculo.mp3 */; };
 		0D87DF6C1DB8BBA70009A971 /* ADViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D87DF6B1DB8BBA70009A971 /* ADViewController.swift */; };
@@ -24,7 +74,7 @@
 		0DD848551DB60E6300FD04D0 /* aTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DD848541DB60E6300FD04D0 /* aTestTests.swift */; };
 		0DD848601DB60E6300FD04D0 /* aTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DD8485F1DB60E6300FD04D0 /* aTestUITests.swift */; };
 		0DDB921C1DB94B4E0046154B /* CellBean.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DDB921B1DB94B4E0046154B /* CellBean.swift */; };
-		56B77A8B91196C7E2E3DE36B /* Pods_aTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 050E5C057D6F6B58FECFFC90 /* Pods_aTest.framework */; };
+		819CADD5E5E588897D423352 /* Pods_DeltaPlay.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A040D2A7307B8CB4338E0FE0 /* Pods_DeltaPlay.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,6 +109,56 @@
 
 /* Begin PBXFileReference section */
 		050E5C057D6F6B58FECFFC90 /* Pods_aTest.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_aTest.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		0D4968871DB9587C00F9D9B5 /* aaaaaaaaaaaaaaaaaaaah (sbadiglio).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "aaaaaaaaaaaaaaaaaaaah (sbadiglio).mp3"; sourceTree = "<group>"; };
+		0D4968881DB9587C00F9D9B5 /* ah ah che cazzo me ne frega a me!.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ah ah che cazzo me ne frega a me!.mp3"; sourceTree = "<group>"; };
+		0D4968891DB9587C00F9D9B5 /* Ah ah, ricchioni maledetti.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Ah ah, ricchioni maledetti.mp3"; sourceTree = "<group>"; };
+		0D49688A1DB9587C00F9D9B5 /* Ah ah... non mi fate incazzere.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Ah ah... non mi fate incazzere.mp3"; sourceTree = "<group>"; };
+		0D49688B1DB9587C00F9D9B5 /* Ah com'è umano lei... merdaccia!!!.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Ah com'è umano lei... merdaccia!!!.mp3"; sourceTree = "<group>"; };
+		0D49688C1DB9587C00F9D9B5 /* Andate a dormire brutti bastardi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Andate a dormire brutti bastardi.mp3"; sourceTree = "<group>"; };
+		0D49688D1DB9587C00F9D9B5 /* Bestia che roba!!!.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Bestia che roba!!!.mp3"; sourceTree = "<group>"; };
+		0D49688E1DB9587C00F9D9B5 /* Buonasera un cazzo!.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Buonasera un cazzo!.mp3"; sourceTree = "<group>"; };
+		0D49688F1DB9587C00F9D9B5 /* Cagnolino.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Cagnolino.mp3; sourceTree = "<group>"; };
+		0D4968901DB9587C00F9D9B5 /* Champagne (ubriaco).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Champagne (ubriaco).mp3"; sourceTree = "<group>"; };
+		0D4968911DB9587C00F9D9B5 /* Che siete handicappati (Attila).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Che siete handicappati (Attila).mp3"; sourceTree = "<group>"; };
+		0D4968921DB9587C00F9D9B5 /* Chi cazzo lo conosce. Terrone maledetto (Banfi).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Chi cazzo lo conosce. Terrone maledetto (Banfi).mp3"; sourceTree = "<group>"; };
+		0D4968931DB9587C00F9D9B5 /* Chobin boing boing piccolo carino e bello.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Chobin boing boing piccolo carino e bello.mp3"; sourceTree = "<group>"; };
+		0D4968941DB9587C00F9D9B5 /* Collaudo Huawei.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Collaudo Huawei.mp3"; sourceTree = "<group>"; };
+		0D4968951DB9587C00F9D9B5 /* Delta non bestemmia.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Delta non bestemmia.mp3"; sourceTree = "<group>"; };
+		0D4968961DB9587C00F9D9B5 /* Dio porco!.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Dio porco!.mp3"; sourceTree = "<group>"; };
+		0D4968971DB9587C00F9D9B5 /* Dove passo io non cresce più l'erba caro (Attila).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Dove passo io non cresce più l'erba caro (Attila).mp3"; sourceTree = "<group>"; };
+		0D4968981DB9587C00F9D9B5 /* Eh la madooonna!!!.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Eh la madooonna!!!.mp3"; sourceTree = "<group>"; };
+		0D4968991DB9587C00F9D9B5 /* Esatto!.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Esatto!.mp3"; sourceTree = "<group>"; };
+		0D49689A1DB9587C00F9D9B5 /* Interferenza Huawei.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Interferenza Huawei.mp3"; sourceTree = "<group>"; };
+		0D49689B1DB9587C00F9D9B5 /* Lupo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Lupo.mp3; sourceTree = "<group>"; };
+		0D49689C1DB9587C00F9D9B5 /* ma a me che cazzo me ne frega a me.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ma a me che cazzo me ne frega a me.mp3"; sourceTree = "<group>"; };
+		0D49689D1DB9587C00F9D9B5 /* Ma andate a cagare va'.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Ma andate a cagare va'.mp3"; sourceTree = "<group>"; };
+		0D49689E1DB9587C00F9D9B5 /* ma che cazzo dici! io son mica scemo!.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ma che cazzo dici! io son mica scemo!.mp3"; sourceTree = "<group>"; };
+		0D49689F1DB9587C00F9D9B5 /* Ma che è sta cafonata.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Ma che è sta cafonata.mp3"; sourceTree = "<group>"; };
+		0D4968A01DB9587C00F9D9B5 /* Ma che è stammerda!.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Ma che è stammerda!.mp3"; sourceTree = "<group>"; };
+		0D4968A11DB9587C00F9D9B5 /* Ma vaffanculo va'.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Ma vaffanculo va'.mp3"; sourceTree = "<group>"; };
+		0D4968A21DB9587C00F9D9B5 /* Ma vai a cagare va' (ubriaco).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Ma vai a cagare va' (ubriaco).mp3"; sourceTree = "<group>"; };
+		0D4968A31DB9587C00F9D9B5 /* Ma vai a cagare va' 2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Ma vai a cagare va' 2.mp3"; sourceTree = "<group>"; };
+		0D4968A41DB9587C00F9D9B5 /* Ma vai a cagare va' 3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Ma vai a cagare va' 3.mp3"; sourceTree = "<group>"; };
+		0D4968A51DB9587C00F9D9B5 /* Ma vai a cagare va' pirla.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Ma vai a cagare va' pirla.mp3"; sourceTree = "<group>"; };
+		0D4968A61DB9587C00F9D9B5 /* Ma vai a cagare va'... uh uh ah ah!!!.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Ma vai a cagare va'... uh uh ah ah!!!.mp3"; sourceTree = "<group>"; };
+		0D4968A71DB9587C00F9D9B5 /* Ma vai a cagare va'.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Ma vai a cagare va'.mp3"; sourceTree = "<group>"; };
+		0D4968A81DB9587C00F9D9B5 /* Ma vattela à pijà n' tel culo va'!.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Ma vattela à pijà n' tel culo va'!.mp3"; sourceTree = "<group>"; };
+		0D4968A91DB9587C00F9D9B5 /* Madonna dell' incoroneta.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Madonna dell' incoroneta.mp3"; sourceTree = "<group>"; };
+		0D4968AA1DB9587C00F9D9B5 /* Mi hai preso per rincoglioneto!.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Mi hai preso per rincoglioneto!.mp3"; sourceTree = "<group>"; };
+		0D4968AB1DB9587C00F9D9B5 /* Oooooo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Oooooo.mp3; sourceTree = "<group>"; };
+		0D4968AC1DB9587C00F9D9B5 /* Orango uh uh uh.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Orango uh uh uh.mp3"; sourceTree = "<group>"; };
+		0D4968AD1DB9587C00F9D9B5 /* Pernacchia.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Pernacchia.mp3; sourceTree = "<group>"; };
+		0D4968AE1DB9587C00F9D9B5 /* Porco Dio.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Porco Dio.mp3"; sourceTree = "<group>"; };
+		0D4968AF1DB9587C00F9D9B5 /* Risata scimmia.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Risata scimmia.mp3"; sourceTree = "<group>"; };
+		0D4968B01DB9587C00F9D9B5 /* Sh sh sh sh ai ue ai u (ubriaco).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Sh sh sh sh ai ue ai u (ubriaco).mp3"; sourceTree = "<group>"; };
+		0D4968B11DB9587C00F9D9B5 /* Sì sente molto bene il microfono del tuo Huawei.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Sì sente molto bene il microfono del tuo Huawei.mp3"; sourceTree = "<group>"; };
+		0D4968B21DB9587C00F9D9B5 /* Siete proprio dei bastardi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Siete proprio dei bastardi.mp3"; sourceTree = "<group>"; };
+		0D4968B31DB9587C00F9D9B5 /* Stocazzo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Stocazzo.mp3; sourceTree = "<group>"; };
+		0D4968B41DB9587C00F9D9B5 /* Stooonzooooooo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Stooonzooooooo.mp3; sourceTree = "<group>"; };
+		0D4968B51DB9587C00F9D9B5 /* Stronzo!.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Stronzo!.mp3"; sourceTree = "<group>"; };
+		0D4968B61DB9587C00F9D9B5 /* Tarzan.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Tarzan.mp3; sourceTree = "<group>"; };
+		0D4968B71DB9587C00F9D9B5 /* Te faccio vedé i sorci verdi aoh!.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Te faccio vedé i sorci verdi aoh!.mp3"; sourceTree = "<group>"; };
+		0D4968B81DB9587C00F9D9B5 /* Viuleeenza!!!.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Viuleeenza!!!.mp3"; sourceTree = "<group>"; };
 		0D51E72F1DB917230077B37F /* FoundationExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FoundationExtension.swift; sourceTree = "<group>"; };
 		0D51E7311DB922D50077B37F /* vaffanculo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = vaffanculo.mp3; sourceTree = "<group>"; };
 		0D87DF6B1DB8BBA70009A971 /* ADViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ADViewController.swift; sourceTree = "<group>"; };
@@ -86,8 +186,11 @@
 		372FE54ADAEF2DF88A52B465 /* Pods-aTestWidget.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-aTestWidget.debug.xcconfig"; path = "Pods/Target Support Files/Pods-aTestWidget/Pods-aTestWidget.debug.xcconfig"; sourceTree = "<group>"; };
 		4CE36842068B8A2C74D07C78 /* Pods-aTestWidget.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-aTestWidget.release.xcconfig"; path = "Pods/Target Support Files/Pods-aTestWidget/Pods-aTestWidget.release.xcconfig"; sourceTree = "<group>"; };
 		9DEE054996139AA5A5861765 /* Pods-aTest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-aTest.debug.xcconfig"; path = "Pods/Target Support Files/Pods-aTest/Pods-aTest.debug.xcconfig"; sourceTree = "<group>"; };
+		A040D2A7307B8CB4338E0FE0 /* Pods_DeltaPlay.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DeltaPlay.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		AD4463C6623B66AFC08222B4 /* Pods-aTest.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-aTest.release.xcconfig"; path = "Pods/Target Support Files/Pods-aTest/Pods-aTest.release.xcconfig"; sourceTree = "<group>"; };
 		AE61567F1B737860E81F3065 /* Pods_aTestWidget.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_aTestWidget.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C6B84309E4168452E395A4FA /* Pods-DeltaPlay.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DeltaPlay.release.xcconfig"; path = "Pods/Target Support Files/Pods-DeltaPlay/Pods-DeltaPlay.release.xcconfig"; sourceTree = "<group>"; };
+		C883B0237C1FE1E01AA2D665 /* Pods-DeltaPlay.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DeltaPlay.debug.xcconfig"; path = "Pods/Target Support Files/Pods-DeltaPlay/Pods-DeltaPlay.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,7 +198,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				56B77A8B91196C7E2E3DE36B /* Pods_aTest.framework in Frameworks */,
+				819CADD5E5E588897D423352 /* Pods_DeltaPlay.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -123,8 +226,67 @@
 				AD4463C6623B66AFC08222B4 /* Pods-aTest.release.xcconfig */,
 				372FE54ADAEF2DF88A52B465 /* Pods-aTestWidget.debug.xcconfig */,
 				4CE36842068B8A2C74D07C78 /* Pods-aTestWidget.release.xcconfig */,
+				C883B0237C1FE1E01AA2D665 /* Pods-DeltaPlay.debug.xcconfig */,
+				C6B84309E4168452E395A4FA /* Pods-DeltaPlay.release.xcconfig */,
 			);
 			name = Pods;
+			sourceTree = "<group>";
+		};
+		0D4968861DB9586C00F9D9B5 /* Audio */ = {
+			isa = PBXGroup;
+			children = (
+				0D4968871DB9587C00F9D9B5 /* aaaaaaaaaaaaaaaaaaaah (sbadiglio).mp3 */,
+				0D4968881DB9587C00F9D9B5 /* ah ah che cazzo me ne frega a me!.mp3 */,
+				0D4968891DB9587C00F9D9B5 /* Ah ah, ricchioni maledetti.mp3 */,
+				0D49688A1DB9587C00F9D9B5 /* Ah ah... non mi fate incazzere.mp3 */,
+				0D49688B1DB9587C00F9D9B5 /* Ah com'è umano lei... merdaccia!!!.mp3 */,
+				0D49688C1DB9587C00F9D9B5 /* Andate a dormire brutti bastardi.mp3 */,
+				0D49688D1DB9587C00F9D9B5 /* Bestia che roba!!!.mp3 */,
+				0D49688E1DB9587C00F9D9B5 /* Buonasera un cazzo!.mp3 */,
+				0D49688F1DB9587C00F9D9B5 /* Cagnolino.mp3 */,
+				0D4968901DB9587C00F9D9B5 /* Champagne (ubriaco).mp3 */,
+				0D4968911DB9587C00F9D9B5 /* Che siete handicappati (Attila).mp3 */,
+				0D4968921DB9587C00F9D9B5 /* Chi cazzo lo conosce. Terrone maledetto (Banfi).mp3 */,
+				0D4968931DB9587C00F9D9B5 /* Chobin boing boing piccolo carino e bello.mp3 */,
+				0D4968941DB9587C00F9D9B5 /* Collaudo Huawei.mp3 */,
+				0D4968951DB9587C00F9D9B5 /* Delta non bestemmia.mp3 */,
+				0D4968961DB9587C00F9D9B5 /* Dio porco!.mp3 */,
+				0D4968971DB9587C00F9D9B5 /* Dove passo io non cresce più l'erba caro (Attila).mp3 */,
+				0D4968981DB9587C00F9D9B5 /* Eh la madooonna!!!.mp3 */,
+				0D4968991DB9587C00F9D9B5 /* Esatto!.mp3 */,
+				0D49689A1DB9587C00F9D9B5 /* Interferenza Huawei.mp3 */,
+				0D49689B1DB9587C00F9D9B5 /* Lupo.mp3 */,
+				0D49689C1DB9587C00F9D9B5 /* ma a me che cazzo me ne frega a me.mp3 */,
+				0D49689D1DB9587C00F9D9B5 /* Ma andate a cagare va'.mp3 */,
+				0D49689E1DB9587C00F9D9B5 /* ma che cazzo dici! io son mica scemo!.mp3 */,
+				0D49689F1DB9587C00F9D9B5 /* Ma che è sta cafonata.mp3 */,
+				0D4968A01DB9587C00F9D9B5 /* Ma che è stammerda!.mp3 */,
+				0D4968A11DB9587C00F9D9B5 /* Ma vaffanculo va'.mp3 */,
+				0D4968A21DB9587C00F9D9B5 /* Ma vai a cagare va' (ubriaco).mp3 */,
+				0D4968A31DB9587C00F9D9B5 /* Ma vai a cagare va' 2.mp3 */,
+				0D4968A41DB9587C00F9D9B5 /* Ma vai a cagare va' 3.mp3 */,
+				0D4968A51DB9587C00F9D9B5 /* Ma vai a cagare va' pirla.mp3 */,
+				0D4968A61DB9587C00F9D9B5 /* Ma vai a cagare va'... uh uh ah ah!!!.mp3 */,
+				0D4968A71DB9587C00F9D9B5 /* Ma vai a cagare va'.mp3 */,
+				0D4968A81DB9587C00F9D9B5 /* Ma vattela à pijà n' tel culo va'!.mp3 */,
+				0D4968A91DB9587C00F9D9B5 /* Madonna dell' incoroneta.mp3 */,
+				0D4968AA1DB9587C00F9D9B5 /* Mi hai preso per rincoglioneto!.mp3 */,
+				0D4968AB1DB9587C00F9D9B5 /* Oooooo.mp3 */,
+				0D4968AC1DB9587C00F9D9B5 /* Orango uh uh uh.mp3 */,
+				0D4968AD1DB9587C00F9D9B5 /* Pernacchia.mp3 */,
+				0D4968AE1DB9587C00F9D9B5 /* Porco Dio.mp3 */,
+				0D4968AF1DB9587C00F9D9B5 /* Risata scimmia.mp3 */,
+				0D4968B01DB9587C00F9D9B5 /* Sh sh sh sh ai ue ai u (ubriaco).mp3 */,
+				0D4968B11DB9587C00F9D9B5 /* Sì sente molto bene il microfono del tuo Huawei.mp3 */,
+				0D4968B21DB9587C00F9D9B5 /* Siete proprio dei bastardi.mp3 */,
+				0D4968B31DB9587C00F9D9B5 /* Stocazzo.mp3 */,
+				0D4968B41DB9587C00F9D9B5 /* Stooonzooooooo.mp3 */,
+				0D4968B51DB9587C00F9D9B5 /* Stronzo!.mp3 */,
+				0D4968B61DB9587C00F9D9B5 /* Tarzan.mp3 */,
+				0D4968B71DB9587C00F9D9B5 /* Te faccio vedé i sorci verdi aoh!.mp3 */,
+				0D4968B81DB9587C00F9D9B5 /* Viuleeenza!!!.mp3 */,
+			);
+			name = Audio;
 			sourceTree = "<group>";
 		};
 		0D87DF6F1DB8BC5F0009A971 /* Core */ = {
@@ -150,6 +312,7 @@
 		0DD848331DB60E6300FD04D0 = {
 			isa = PBXGroup;
 			children = (
+				0D4968861DB9586C00F9D9B5 /* Audio */,
 				0D51E7311DB922D50077B37F /* vaffanculo.mp3 */,
 				0DD8483E1DB60E6300FD04D0 /* aTest */,
 				0DD848531DB60E6300FD04D0 /* aTestTests */,
@@ -212,6 +375,7 @@
 				0DD848861DB6104A00FD04D0 /* NotificationCenter.framework */,
 				050E5C057D6F6B58FECFFC90 /* Pods_aTest.framework */,
 				AE61567F1B737860E81F3065 /* Pods_aTestWidget.framework */,
+				A040D2A7307B8CB4338E0FE0 /* Pods_DeltaPlay.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -338,13 +502,63 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0D4968D11DB9587C00F9D9B5 /* Ma che è sta cafonata.mp3 in Resources */,
+				0D4968C91DB9587C00F9D9B5 /* Dove passo io non cresce più l'erba caro (Attila).mp3 in Resources */,
 				0D87DF781DB8FFE00009A971 /* MANDATOR.ttf in Resources */,
+				0D4968DA1DB9587C00F9D9B5 /* Ma vattela à pijà n' tel culo va'!.mp3 in Resources */,
 				0DD8484A1DB60E6300FD04D0 /* LaunchScreen.storyboard in Resources */,
+				0D4968DE1DB9587C00F9D9B5 /* Orango uh uh uh.mp3 in Resources */,
 				0DD848471DB60E6300FD04D0 /* Assets.xcassets in Resources */,
+				0D4968C71DB9587C00F9D9B5 /* Delta non bestemmia.mp3 in Resources */,
+				0D4968E41DB9587C00F9D9B5 /* Siete proprio dei bastardi.mp3 in Resources */,
 				0D87DF761DB8FCE00009A971 /* BebasNeue.otf in Resources */,
 				0D51E7321DB922D50077B37F /* vaffanculo.mp3 in Resources */,
+				0D4968E91DB9587C00F9D9B5 /* Te faccio vedé i sorci verdi aoh!.mp3 in Resources */,
+				0D4968C11DB9587C00F9D9B5 /* Cagnolino.mp3 in Resources */,
+				0D4968E21DB9587C00F9D9B5 /* Sh sh sh sh ai ue ai u (ubriaco).mp3 in Resources */,
+				0D4968D51DB9587C00F9D9B5 /* Ma vai a cagare va' 2.mp3 in Resources */,
+				0D4968BD1DB9587C00F9D9B5 /* Ah com'è umano lei... merdaccia!!!.mp3 in Resources */,
+				0D4968C61DB9587C00F9D9B5 /* Collaudo Huawei.mp3 in Resources */,
+				0D4968E71DB9587C00F9D9B5 /* Stronzo!.mp3 in Resources */,
+				0D4968E81DB9587C00F9D9B5 /* Tarzan.mp3 in Resources */,
+				0D4968D41DB9587C00F9D9B5 /* Ma vai a cagare va' (ubriaco).mp3 in Resources */,
+				0D4968D71DB9587C00F9D9B5 /* Ma vai a cagare va' pirla.mp3 in Resources */,
+				0D4968C81DB9587C00F9D9B5 /* Dio porco!.mp3 in Resources */,
+				0D4968E51DB9587C00F9D9B5 /* Stocazzo.mp3 in Resources */,
+				0D4968E61DB9587C00F9D9B5 /* Stooonzooooooo.mp3 in Resources */,
+				0D4968C21DB9587C00F9D9B5 /* Champagne (ubriaco).mp3 in Resources */,
+				0D4968CB1DB9587C00F9D9B5 /* Esatto!.mp3 in Resources */,
+				0D4968CC1DB9587C00F9D9B5 /* Interferenza Huawei.mp3 in Resources */,
+				0D4968EA1DB9587C00F9D9B5 /* Viuleeenza!!!.mp3 in Resources */,
+				0D4968CD1DB9587C00F9D9B5 /* Lupo.mp3 in Resources */,
 				0DD848451DB60E6300FD04D0 /* Main.storyboard in Resources */,
+				0D4968C41DB9587C00F9D9B5 /* Chi cazzo lo conosce. Terrone maledetto (Banfi).mp3 in Resources */,
+				0D4968C31DB9587C00F9D9B5 /* Che siete handicappati (Attila).mp3 in Resources */,
+				0D4968CA1DB9587C00F9D9B5 /* Eh la madooonna!!!.mp3 in Resources */,
+				0D4968C01DB9587C00F9D9B5 /* Buonasera un cazzo!.mp3 in Resources */,
+				0D4968D61DB9587C00F9D9B5 /* Ma vai a cagare va' 3.mp3 in Resources */,
+				0D4968BE1DB9587C00F9D9B5 /* Andate a dormire brutti bastardi.mp3 in Resources */,
+				0D4968B91DB9587C00F9D9B5 /* aaaaaaaaaaaaaaaaaaaah (sbadiglio).mp3 in Resources */,
+				0D4968DB1DB9587C00F9D9B5 /* Madonna dell' incoroneta.mp3 in Resources */,
+				0D4968CE1DB9587C00F9D9B5 /* ma a me che cazzo me ne frega a me.mp3 in Resources */,
+				0D4968D81DB9587C00F9D9B5 /* Ma vai a cagare va'... uh uh ah ah!!!.mp3 in Resources */,
+				0D4968D21DB9587C00F9D9B5 /* Ma che è stammerda!.mp3 in Resources */,
+				0D4968BF1DB9587C00F9D9B5 /* Bestia che roba!!!.mp3 in Resources */,
+				0D4968BA1DB9587C00F9D9B5 /* ah ah che cazzo me ne frega a me!.mp3 in Resources */,
+				0D4968DC1DB9587C00F9D9B5 /* Mi hai preso per rincoglioneto!.mp3 in Resources */,
+				0D4968CF1DB9587C00F9D9B5 /* Ma andate a cagare va'.mp3 in Resources */,
+				0D4968D01DB9587C00F9D9B5 /* ma che cazzo dici! io son mica scemo!.mp3 in Resources */,
+				0D4968E31DB9587C00F9D9B5 /* Sì sente molto bene il microfono del tuo Huawei.mp3 in Resources */,
+				0D4968E01DB9587C00F9D9B5 /* Porco Dio.mp3 in Resources */,
+				0D4968E11DB9587C00F9D9B5 /* Risata scimmia.mp3 in Resources */,
+				0D4968DF1DB9587C00F9D9B5 /* Pernacchia.mp3 in Resources */,
+				0D4968C51DB9587C00F9D9B5 /* Chobin boing boing piccolo carino e bello.mp3 in Resources */,
+				0D4968DD1DB9587C00F9D9B5 /* Oooooo.mp3 in Resources */,
 				0D87DF7A1DB901CC0009A971 /* FeaturedItem.ttf in Resources */,
+				0D4968BC1DB9587C00F9D9B5 /* Ah ah... non mi fate incazzere.mp3 in Resources */,
+				0D4968D91DB9587C00F9D9B5 /* Ma vai a cagare va'.mp3 in Resources */,
+				0D4968D31DB9587C00F9D9B5 /* Ma vaffanculo va'.mp3 in Resources */,
+				0D4968BB1DB9587C00F9D9B5 /* Ah ah, ricchioni maledetti.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -377,7 +591,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-aTest/Pods-aTest-resources.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-DeltaPlay/Pods-DeltaPlay-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		72C7A01F2ABB57EC8A93607D /* [CP] Embed Pods Frameworks */ = {
@@ -392,7 +606,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-aTest/Pods-aTest-frameworks.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-DeltaPlay/Pods-DeltaPlay-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		C5C3A8EB4FE36DEF87055D17 /* [CP] Check Pods Manifest.lock */ = {
@@ -574,7 +788,7 @@
 		};
 		0DD848651DB60E6300FD04D0 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 9DEE054996139AA5A5861765 /* Pods-aTest.debug.xcconfig */;
+			baseConfigurationReference = C883B0237C1FE1E01AA2D665 /* Pods-DeltaPlay.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = DX3C8CCLKW;
@@ -588,7 +802,7 @@
 		};
 		0DD848661DB60E6300FD04D0 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = AD4463C6623B66AFC08222B4 /* Pods-aTest.release.xcconfig */;
+			baseConfigurationReference = C6B84309E4168452E395A4FA /* Pods-DeltaPlay.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = DX3C8CCLKW;
