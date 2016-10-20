@@ -15,22 +15,21 @@ class ViewController: ADTableViewController {
     
     var player: AVAudioPlayer?
     var shareButton : UIBarButtonItem!
+    var isSelecting : Bool = true
+    var fakeBeanList = CellBean.getBeans()
     
     override func adViewDidLoad() {
         super.adViewDidLoad()
         self.tableView.delegate = self
         self.title = "DeltaPlay"
-        let addButtonImageView = UIImageView(image: UIImage(named: "share"))
-        //shareButton = UIBarButtonItem(customView: addButtonImageView)
         shareButton = UIBarButtonItem(barButtonSystemItem: .action, target: self, action: #selector(ViewController.share))
-        //shareButton.customView = addButtonImageView
-        //        shareButton.target = self
-        //        shareButton.action = #selector(share)
         self.navigationItem.rightBarButtonItem = shareButton
+        self.navigationItem.leftBarButtonItem = UIBarButtonItem(title: "Annulla", style: .done, target: self, action: #selector(ViewController.seleziona))
+        self.navigationItem.leftBarButtonItem?.setTitleTextAttributes( [NSFontAttributeName : UIFont.bebasNeueFont(ofSize: 16)!], for: .normal)
     }
     
     func tableView(_ tableView: UITableView, titleForHeaderInSection section: Int) -> String? {
-        return "Ti vogliamo bene Andrè"
+        return "@deltaforce76"
     }
     
     override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
@@ -54,9 +53,16 @@ class ViewController: ADTableViewController {
     
     override func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         tableView.deselectRow(at: indexPath, animated: true)
-        fakeBeanList[indexPath.row].selected = !fakeBeanList[indexPath.row].selected
-        tableView.reloadData()
-        playSound(name: fakeBeanList[indexPath.row].audioTitle)
+        
+        if !fakeBeanList[indexPath.row].selected{
+            playSound(name: fakeBeanList[indexPath.row].audioTitle)
+        }
+        
+        if isSelecting{
+            fakeBeanList[indexPath.row].selected = !fakeBeanList[indexPath.row].selected
+            tableView.reloadData()
+        }
+        
     }
     
     override func tableView(_ tableView: UITableView, canEditRowAt indexPath: IndexPath) -> Bool {
@@ -93,5 +99,22 @@ class ViewController: ADTableViewController {
         }
     }
     
+    func seleziona(){
+        if isSelecting{
+            
+            DispatchQueue.main.async {
+                for bean in self.fakeBeanList{
+                    bean.selected = false
+                }
+                (self.view as? UITableView)?.reloadData()
+            }
+            
+            self.navigationItem.leftBarButtonItem?.title = "Seleziona"
+        }else{
+            self.navigationItem.leftBarButtonItem?.title = "Annulla"
+        }
+        
+        isSelecting = !isSelecting
+    }
 }
 

@@ -57,6 +57,7 @@
 		0D4968E81DB9587C00F9D9B5 /* Tarzan.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D4968B61DB9587C00F9D9B5 /* Tarzan.mp3 */; };
 		0D4968E91DB9587C00F9D9B5 /* Te faccio vedé i sorci verdi aoh!.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D4968B71DB9587C00F9D9B5 /* Te faccio vedé i sorci verdi aoh!.mp3 */; };
 		0D4968EA1DB9587C00F9D9B5 /* Viuleeenza!!!.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D4968B81DB9587C00F9D9B5 /* Viuleeenza!!!.mp3 */; };
+		0D4968EC1DB96A3800F9D9B5 /* AVViewControllerExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D4968EB1DB96A3800F9D9B5 /* AVViewControllerExtension.swift */; };
 		0D51E7301DB917230077B37F /* FoundationExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D51E72F1DB917230077B37F /* FoundationExtension.swift */; };
 		0D51E7321DB922D50077B37F /* vaffanculo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D51E7311DB922D50077B37F /* vaffanculo.mp3 */; };
 		0D87DF6C1DB8BBA70009A971 /* ADViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D87DF6B1DB8BBA70009A971 /* ADViewController.swift */; };
@@ -159,6 +160,7 @@
 		0D4968B61DB9587C00F9D9B5 /* Tarzan.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Tarzan.mp3; sourceTree = "<group>"; };
 		0D4968B71DB9587C00F9D9B5 /* Te faccio vedé i sorci verdi aoh!.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Te faccio vedé i sorci verdi aoh!.mp3"; sourceTree = "<group>"; };
 		0D4968B81DB9587C00F9D9B5 /* Viuleeenza!!!.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Viuleeenza!!!.mp3"; sourceTree = "<group>"; };
+		0D4968EB1DB96A3800F9D9B5 /* AVViewControllerExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AVViewControllerExtension.swift; sourceTree = "<group>"; };
 		0D51E72F1DB917230077B37F /* FoundationExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FoundationExtension.swift; sourceTree = "<group>"; };
 		0D51E7311DB922D50077B37F /* vaffanculo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = vaffanculo.mp3; sourceTree = "<group>"; };
 		0D87DF6B1DB8BBA70009A971 /* ADViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ADViewController.swift; sourceTree = "<group>"; };
@@ -305,6 +307,7 @@
 			isa = PBXGroup;
 			children = (
 				0DD848411DB60E6300FD04D0 /* ViewController.swift */,
+				0D4968EB1DB96A3800F9D9B5 /* AVViewControllerExtension.swift */,
 			);
 			name = ViewController;
 			sourceTree = "<group>";
@@ -639,6 +642,7 @@
 				0D87DF721DB8C6580009A971 /* ADTableViewController.swift in Sources */,
 				0DD848401DB60E6300FD04D0 /* AppDelegate.swift in Sources */,
 				0DDB921C1DB94B4E0046154B /* CellBean.swift in Sources */,
+				0D4968EC1DB96A3800F9D9B5 /* AVViewControllerExtension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
