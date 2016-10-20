@@ -23,6 +23,7 @@
 		0DD8484A1DB60E6300FD04D0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0DD848481DB60E6300FD04D0 /* LaunchScreen.storyboard */; };
 		0DD848551DB60E6300FD04D0 /* aTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DD848541DB60E6300FD04D0 /* aTestTests.swift */; };
 		0DD848601DB60E6300FD04D0 /* aTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DD8485F1DB60E6300FD04D0 /* aTestUITests.swift */; };
+		0DDB921C1DB94B4E0046154B /* CellBean.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DDB921B1DB94B4E0046154B /* CellBean.swift */; };
 		56B77A8B91196C7E2E3DE36B /* Pods_aTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 050E5C057D6F6B58FECFFC90 /* Pods_aTest.framework */; };
 /* End PBXBuildFile section */
 
@@ -81,6 +82,7 @@
 		0DD8485F1DB60E6300FD04D0 /* aTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = aTestUITests.swift; sourceTree = "<group>"; };
 		0DD848611DB60E6300FD04D0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0DD848861DB6104A00FD04D0 /* NotificationCenter.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = NotificationCenter.framework; path = System/Library/Frameworks/NotificationCenter.framework; sourceTree = SDKROOT; };
+		0DDB921B1DB94B4E0046154B /* CellBean.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CellBean.swift; sourceTree = "<group>"; };
 		372FE54ADAEF2DF88A52B465 /* Pods-aTestWidget.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-aTestWidget.debug.xcconfig"; path = "Pods/Target Support Files/Pods-aTestWidget/Pods-aTestWidget.debug.xcconfig"; sourceTree = "<group>"; };
 		4CE36842068B8A2C74D07C78 /* Pods-aTestWidget.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-aTestWidget.release.xcconfig"; path = "Pods/Target Support Files/Pods-aTestWidget/Pods-aTestWidget.release.xcconfig"; sourceTree = "<group>"; };
 		9DEE054996139AA5A5861765 /* Pods-aTest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-aTest.debug.xcconfig"; path = "Pods/Target Support Files/Pods-aTest/Pods-aTest.debug.xcconfig"; sourceTree = "<group>"; };
@@ -174,6 +176,7 @@
 				0D87DF751DB8FCE00009A971 /* BebasNeue.otf */,
 				0D87DF771DB8FFE00009A971 /* MANDATOR.ttf */,
 				0D87DF791DB901CC0009A971 /* FeaturedItem.ttf */,
+				0DDB921A1DB94B300046154B /* Model */,
 				0D87DF701DB8C61E0009A971 /* ViewController */,
 				0D87DF6F1DB8BC5F0009A971 /* Core */,
 				0DD8483F1DB60E6300FD04D0 /* AppDelegate.swift */,
@@ -211,6 +214,14 @@
 				AE61567F1B737860E81F3065 /* Pods_aTestWidget.framework */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		0DDB921A1DB94B300046154B /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				0DDB921B1DB94B4E0046154B /* CellBean.swift */,
+			);
+			name = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -413,6 +424,7 @@
 				0D87DF6E1DB8BC550009A971 /* UIKitExtension.swift in Sources */,
 				0D87DF721DB8C6580009A971 /* ADTableViewController.swift in Sources */,
 				0DD848401DB60E6300FD04D0 /* AppDelegate.swift in Sources */,
+				0DDB921C1DB94B4E0046154B /* CellBean.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
