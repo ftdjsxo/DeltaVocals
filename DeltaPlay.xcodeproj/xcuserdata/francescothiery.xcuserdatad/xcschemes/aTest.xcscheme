@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "0DD8483B1DB60E6300FD04D0"
-               BuildableName = "aTest.app"
-               BlueprintName = "aTest"
-               ReferencedContainer = "container:aTest.xcodeproj">
+               BuildableName = "DeltaPlay.app"
+               BlueprintName = "DeltaPlay"
+               ReferencedContainer = "container:DeltaPlay.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "0DD8484F1DB60E6300FD04D0"
-               BuildableName = "aTestTests.xctest"
-               BlueprintName = "aTestTests"
-               ReferencedContainer = "container:aTest.xcodeproj">
+               BuildableName = "DeltaPlayTests.xctest"
+               BlueprintName = "DeltaPlayTests"
+               ReferencedContainer = "container:DeltaPlay.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "0DD8485A1DB60E6300FD04D0"
-               BuildableName = "aTestUITests.xctest"
-               BlueprintName = "aTestUITests"
-               ReferencedContainer = "container:aTest.xcodeproj">
+               BuildableName = "DeltaPlayUITests.xctest"
+               BlueprintName = "DeltaPlayUITests"
+               ReferencedContainer = "container:DeltaPlay.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "0DD8483B1DB60E6300FD04D0"
-            BuildableName = "aTest.app"
-            BlueprintName = "aTest"
-            ReferencedContainer = "container:aTest.xcodeproj">
+            BuildableName = "DeltaPlay.app"
+            BlueprintName = "DeltaPlay"
+            ReferencedContainer = "container:DeltaPlay.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "0DD8483B1DB60E6300FD04D0"
-            BuildableName = "aTest.app"
-            BlueprintName = "aTest"
-            ReferencedContainer = "container:aTest.xcodeproj">
+            BuildableName = "DeltaPlay.app"
+            BlueprintName = "DeltaPlay"
+            ReferencedContainer = "container:DeltaPlay.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "0DD8483B1DB60E6300FD04D0"
-            BuildableName = "aTest.app"
-            BlueprintName = "aTest"
-            ReferencedContainer = "container:aTest.xcodeproj">
+            BuildableName = "DeltaPlay.app"
+            BlueprintName = "DeltaPlay"
+            ReferencedContainer = "container:DeltaPlay.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

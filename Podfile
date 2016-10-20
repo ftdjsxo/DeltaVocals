@@ -5,7 +5,7 @@ use_frameworks!
 pod 'SnapKit'
 pod 'NVActivityIndicatorView'
 
-target :’aTest’ do
+target :’DeltaPlay’ do
 end
 
 post_install do |installer|

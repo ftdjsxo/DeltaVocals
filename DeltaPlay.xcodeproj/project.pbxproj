@@ -68,17 +68,17 @@
 		0D87DF751DB8FCE00009A971 /* BebasNeue.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = BebasNeue.otf; sourceTree = "<group>"; };
 		0D87DF771DB8FFE00009A971 /* MANDATOR.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = MANDATOR.ttf; sourceTree = "<group>"; };
 		0D87DF791DB901CC0009A971 /* FeaturedItem.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FeaturedItem.ttf; sourceTree = "<group>"; };
-		0DD8483C1DB60E6300FD04D0 /* aTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = aTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0DD8483C1DB60E6300FD04D0 /* DeltaPlay.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DeltaPlay.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0DD8483F1DB60E6300FD04D0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0DD848411DB60E6300FD04D0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		0DD848441DB60E6300FD04D0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		0DD848461DB60E6300FD04D0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0DD848491DB60E6300FD04D0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0DD8484B1DB60E6300FD04D0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		0DD848501DB60E6300FD04D0 /* aTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = aTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		0DD848501DB60E6300FD04D0 /* DeltaPlayTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DeltaPlayTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0DD848541DB60E6300FD04D0 /* aTestTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = aTestTests.swift; sourceTree = "<group>"; };
 		0DD848561DB60E6300FD04D0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		0DD8485B1DB60E6300FD04D0 /* aTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = aTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		0DD8485B1DB60E6300FD04D0 /* DeltaPlayUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DeltaPlayUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0DD8485F1DB60E6300FD04D0 /* aTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = aTestUITests.swift; sourceTree = "<group>"; };
 		0DD848611DB60E6300FD04D0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0DD848861DB6104A00FD04D0 /* NotificationCenter.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = NotificationCenter.framework; path = System/Library/Frameworks/NotificationCenter.framework; sourceTree = SDKROOT; };
@@ -163,9 +163,9 @@
 		0DD8483D1DB60E6300FD04D0 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0DD8483C1DB60E6300FD04D0 /* aTest.app */,
-				0DD848501DB60E6300FD04D0 /* aTestTests.xctest */,
-				0DD8485B1DB60E6300FD04D0 /* aTestUITests.xctest */,
+				0DD8483C1DB60E6300FD04D0 /* DeltaPlay.app */,
+				0DD848501DB60E6300FD04D0 /* DeltaPlayTests.xctest */,
+				0DD8485B1DB60E6300FD04D0 /* DeltaPlayUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -227,9 +227,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		0DD8483B1DB60E6300FD04D0 /* aTest */ = {
+		0DD8483B1DB60E6300FD04D0 /* DeltaPlay */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0DD848641DB60E6300FD04D0 /* Build configuration list for PBXNativeTarget "aTest" */;
+			buildConfigurationList = 0DD848641DB60E6300FD04D0 /* Build configuration list for PBXNativeTarget "DeltaPlay" */;
 			buildPhases = (
 				C5C3A8EB4FE36DEF87055D17 /* [CP] Check Pods Manifest.lock */,
 				0DD848381DB60E6300FD04D0 /* Sources */,
@@ -243,14 +243,14 @@
 			);
 			dependencies = (
 			);
-			name = aTest;
+			name = DeltaPlay;
 			productName = aTest;
-			productReference = 0DD8483C1DB60E6300FD04D0 /* aTest.app */;
+			productReference = 0DD8483C1DB60E6300FD04D0 /* DeltaPlay.app */;
 			productType = "com.apple.product-type.application";
 		};
-		0DD8484F1DB60E6300FD04D0 /* aTestTests */ = {
+		0DD8484F1DB60E6300FD04D0 /* DeltaPlayTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0DD848671DB60E6300FD04D0 /* Build configuration list for PBXNativeTarget "aTestTests" */;
+			buildConfigurationList = 0DD848671DB60E6300FD04D0 /* Build configuration list for PBXNativeTarget "DeltaPlayTests" */;
 			buildPhases = (
 				0DD8484C1DB60E6300FD04D0 /* Sources */,
 				0DD8484D1DB60E6300FD04D0 /* Frameworks */,
@@ -261,14 +261,14 @@
 			dependencies = (
 				0DD848521DB60E6300FD04D0 /* PBXTargetDependency */,
 			);
-			name = aTestTests;
+			name = DeltaPlayTests;
 			productName = aTestTests;
-			productReference = 0DD848501DB60E6300FD04D0 /* aTestTests.xctest */;
+			productReference = 0DD848501DB60E6300FD04D0 /* DeltaPlayTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		0DD8485A1DB60E6300FD04D0 /* aTestUITests */ = {
+		0DD8485A1DB60E6300FD04D0 /* DeltaPlayUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0DD8486A1DB60E6300FD04D0 /* Build configuration list for PBXNativeTarget "aTestUITests" */;
+			buildConfigurationList = 0DD8486A1DB60E6300FD04D0 /* Build configuration list for PBXNativeTarget "DeltaPlayUITests" */;
 			buildPhases = (
 				0DD848571DB60E6300FD04D0 /* Sources */,
 				0DD848581DB60E6300FD04D0 /* Frameworks */,
@@ -279,9 +279,9 @@
 			dependencies = (
 				0DD8485D1DB60E6300FD04D0 /* PBXTargetDependency */,
 			);
-			name = aTestUITests;
+			name = DeltaPlayUITests;
 			productName = aTestUITests;
-			productReference = 0DD8485B1DB60E6300FD04D0 /* aTestUITests.xctest */;
+			productReference = 0DD8485B1DB60E6300FD04D0 /* DeltaPlayUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -313,7 +313,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 0DD848371DB60E6300FD04D0 /* Build configuration list for PBXProject "aTest" */;
+			buildConfigurationList = 0DD848371DB60E6300FD04D0 /* Build configuration list for PBXProject "DeltaPlay" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -326,9 +326,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				0DD8483B1DB60E6300FD04D0 /* aTest */,
-				0DD8484F1DB60E6300FD04D0 /* aTestTests */,
-				0DD8485A1DB60E6300FD04D0 /* aTestUITests */,
+				0DD8483B1DB60E6300FD04D0 /* DeltaPlay */,
+				0DD8484F1DB60E6300FD04D0 /* DeltaPlayTests */,
+				0DD8485A1DB60E6300FD04D0 /* DeltaPlayUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -449,12 +449,12 @@
 /* Begin PBXTargetDependency section */
 		0DD848521DB60E6300FD04D0 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 0DD8483B1DB60E6300FD04D0 /* aTest */;
+			target = 0DD8483B1DB60E6300FD04D0 /* DeltaPlay */;
 			targetProxy = 0DD848511DB60E6300FD04D0 /* PBXContainerItemProxy */;
 		};
 		0DD8485D1DB60E6300FD04D0 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 0DD8483B1DB60E6300FD04D0 /* aTest */;
+			target = 0DD8483B1DB60E6300FD04D0 /* DeltaPlay */;
 			targetProxy = 0DD8485C1DB60E6300FD04D0 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -611,7 +611,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = it.coocked.aTestTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/aTest.app/aTest";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/DeltaPlay.app/DeltaPlay";
 			};
 			name = Debug;
 		};
@@ -626,7 +626,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = it.coocked.aTestTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/aTest.app/aTest";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/DeltaPlay.app/DeltaPlay";
 			};
 			name = Release;
 		};
@@ -661,7 +661,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0DD848371DB60E6300FD04D0 /* Build configuration list for PBXProject "aTest" */ = {
+		0DD848371DB60E6300FD04D0 /* Build configuration list for PBXProject "DeltaPlay" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0DD848621DB60E6300FD04D0 /* Debug */,
@@ -670,7 +670,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0DD848641DB60E6300FD04D0 /* Build configuration list for PBXNativeTarget "aTest" */ = {
+		0DD848641DB60E6300FD04D0 /* Build configuration list for PBXNativeTarget "DeltaPlay" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0DD848651DB60E6300FD04D0 /* Debug */,
@@ -679,7 +679,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0DD848671DB60E6300FD04D0 /* Build configuration list for PBXNativeTarget "aTestTests" */ = {
+		0DD848671DB60E6300FD04D0 /* Build configuration list for PBXNativeTarget "DeltaPlayTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0DD848681DB60E6300FD04D0 /* Debug */,
@@ -688,7 +688,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0DD8486A1DB60E6300FD04D0 /* Build configuration list for PBXNativeTarget "aTestUITests" */ = {
+		0DD8486A1DB60E6300FD04D0 /* Build configuration list for PBXNativeTarget "DeltaPlayUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0DD8486B1DB60E6300FD04D0 /* Debug */,
